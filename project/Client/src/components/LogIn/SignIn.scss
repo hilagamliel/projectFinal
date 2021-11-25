@@ -1,0 +1,44 @@
+.redError{
+    color: red;
+    text-align: center;
+}
+.ui.placeholder.segment {
+
+    max-width: 69%;
+
+}
+.ui.placeholder.segment {
+    margin-top: 13%;
+    padding-right: 2%;
+    padding-left: 0%;
+    max-width: 69%;
+    margin-left: 15%;
+}
+.back-singIn{
+    // background-image:url("./img/background.png");
+    background-size: 105vw;
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+}.makeStyles-submit-6 {
+    color: #fff;
+    background-color: #ff716e;
+}.makeStyles-submit-6:hover {
+    color: #fff;
+    background-color: #ff716e;
+}
+
+.MuiButton-contained {
+    color: rgba(0, 0, 0, 0.87);
+    background-color: #ff716e;
+}.opcityandimg{
+     background-image: url("./img/2021-10-13.jpg");
+     backdrop-filter: blur(5px);
+}
+.backrund{
+    background-image: linear-gradient( 
+        132deg, rgb(0,0,0) 0%, rgb(294,113,110) 0%,#0b0b2b 80%);
+        position: relative;
+        height:10%;
+        top: 7%;
+    }
